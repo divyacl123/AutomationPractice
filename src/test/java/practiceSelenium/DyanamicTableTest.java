@@ -28,6 +28,7 @@ public class DyanamicTableTest {
 		String cpu = driver.findElement(By.xpath("//table[@id='taskTable']/tbody/tr/td[.='"+name+"']/following-sibling::td[contains(.,'%')]")).getText();
 		System.out.println(cpu);
 		driver.quit();
+		System.out.println("for merge conflict testing");
 	
 	}
 	
