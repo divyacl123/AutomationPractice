@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practiceSelenium.PaginationTest">
+      <class name="practiceSelenium.AmazonTest">
         <methods>
-          <include name="paginationTableTest"/>
+          <include name="amazonTest"/>
         </methods>
-      </class> <!-- practiceSelenium.PaginationTest -->
+      </class> <!-- practiceSelenium.AmazonTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
