@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-20T12:07:49 IST" name="Default suite" finished-at="2026-02-20T12:08:05 IST" duration-ms="15560">
+    <groups>
+    </groups>
+    <test started-at="2026-02-20T12:07:49 IST" name="Default test" finished-at="2026-02-20T12:08:05 IST" duration-ms="15560">
+      <class name="practiceSelenium.PaginationTest">
+        <test-method signature="paginationTableTest()[pri:0, instance:practiceSelenium.PaginationTest@73a1e9a9]" started-at="2026-02-20T12:07:49 IST" name="paginationTableTest" finished-at="2026-02-20T12:08:05 IST" duration-ms="15458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paginationTableTest -->
+      </class> <!-- practiceSelenium.PaginationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
