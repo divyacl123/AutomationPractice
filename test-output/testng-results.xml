@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-20T12:49:32 IST" name="Default suite" finished-at="2026-02-20T12:50:07 IST" duration-ms="34563">
+  <suite started-at="2026-02-20T13:26:42 IST" name="Default suite" finished-at="2026-02-20T13:27:09 IST" duration-ms="27255">
     <groups>
     </groups>
-    <test started-at="2026-02-20T12:49:32 IST" name="Default test" finished-at="2026-02-20T12:50:07 IST" duration-ms="34563">
-      <class name="practiceSelenium.AmazonTest">
-        <test-method signature="amazonTest()[pri:0, instance:practiceSelenium.AmazonTest@71d44a3]" started-at="2026-02-20T12:49:32 IST" name="amazonTest" finished-at="2026-02-20T12:50:07 IST" duration-ms="34027" status="PASS">
+    <test started-at="2026-02-20T13:26:42 IST" name="Default test" finished-at="2026-02-20T13:27:09 IST" duration-ms="27255">
+      <class name="practiceSelenium.DyanamicTableTest">
+        <test-method signature="dynamicTest()[pri:0, instance:practiceSelenium.DyanamicTableTest@71d44a3]" started-at="2026-02-20T13:26:42 IST" name="dynamicTest" finished-at="2026-02-20T13:27:09 IST" duration-ms="27179" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- amazonTest -->
-      </class> <!-- practiceSelenium.AmazonTest -->
+        </test-method> <!-- dynamicTest -->
+      </class> <!-- practiceSelenium.DyanamicTableTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
