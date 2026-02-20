@@ -37,8 +37,10 @@ public class PaginationTest {
 				}
 			catch(Exception e) {
 				driver.findElement(By.xpath("//ul[@id='pagination']/li[contains(.,'"+i+"')]")).click();
-				
+				System.out.println("testing");
 			}
 		}
 		
+		
+
 }

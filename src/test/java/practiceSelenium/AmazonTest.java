@@ -27,6 +27,7 @@ public class AmazonTest {
 		driver.findElement(By.xpath("//span[@class='nav-text']/span[.='मराठी']/preceding-sibling::i[@class='icp-radio']")).click();
 		Thread.sleep(2000);
 		driver.close();
+		System.out.println("testing");
 	}
 
 }
