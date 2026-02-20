@@ -8,6 +8,7 @@ public class MergeConflictTest {
 	public void testing() {
 		System.out.println("testing");
 		System.out.println("testing2");
+		System.out.println("testing1");
 	}
 
 }
